@@ -123,3 +123,11 @@ msg[22] = 8'h48;             // 'H' (Humidity Label)
 | `fnd_digit` | Output | 4비트 | 4자리 공통 디지트 활성화 선택 포트 (Active-Low) |
 | `fnd_data` | Output | 8비트 | 7-Segment 애노드/캐소드 발광 데이터 패턴 버스 ($a \sim g, dp$) |
 | `out_led` | Output | 4비트 | 현재 구동 상태 모드 인디케이터용 LED 바 |
+
+---
+
+## 전체 시스템 Block Diagram (System Overview Block Diagram)
+<img width="1792" height="980" alt="image" src="https://github.com/user-attachments/assets/98a7a4af-0507-4948-9326-552c1b4e78c4" />
+
+- **System Overview** 
+
